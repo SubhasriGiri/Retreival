@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874606824909",
+    "firebase_url": "https://retreival-4cea2.firebaseio.com",
+    "project_id": "retreival-4cea2",
+    "storage_bucket": "retreival-4cea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874606824909:android:27ee3b54674692f2",
+        "android_client_info": {
+          "package_name": "alumni.cit.edu.in.retreival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874606824909-vtg2h4bnk6rbjcf0ivliaoq3jcmracdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alumni.cit.edu.in.retreival",
+            "certificate_hash": "b72bba9dfcda8147d03920441090b08b8c5848f4"
+          }
+        },
+        {
+          "client_id": "874606824909-de9387vlqjfur4ovau56u9vj6qqciv29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTchy6xIexv5j58MU44GgxsFQ1FgmxtM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874606824909-de9387vlqjfur4ovau56u9vj6qqciv29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
